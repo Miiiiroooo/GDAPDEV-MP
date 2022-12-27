@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1823201522041679771
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1072018032440650, guid: f7927326215742e4485ae667e41cd170, type: 3}
+      propertyPath: m_Name
+      value: SM_Prop_Drone_Control_Room_01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379427331746034, guid: f7927326215742e4485ae667e41cd170, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379427331746034, guid: f7927326215742e4485ae667e41cd170, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 55.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379427331746034, guid: f7927326215742e4485ae667e41cd170, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379427331746034, guid: f7927326215742e4485ae667e41cd170, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 153.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379427331746034, guid: f7927326215742e4485ae667e41cd170, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710784
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379427331746034, guid: f7927326215742e4485ae667e41cd170, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379427331746034, guid: f7927326215742e4485ae667e41cd170, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710576
+      objectReference: {fileID: 0}
+    - target: {fileID: 4379427331746034, guid: f7927326215742e4485ae667e41cd170, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7927326215742e4485ae667e41cd170, type: 3}

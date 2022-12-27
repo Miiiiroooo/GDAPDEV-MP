@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Effects
+  m_EditorClassIdentifier: 
+  m_GroupName: Effects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6abbc6b926e51644c88b1669745f37d0
+  m_SerializeEntries:
+  - m_GUID: 093d612c08a2cf34b89235823ea4d035
+    m_Address: GunShot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad2ab49d0a2a17148bd51c93d977bdbc
+    m_Address: MuzzleFlash
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8cb413d77ceb054abf10c2c6ee66337
+    m_Address: MuzzleFlashMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f040c4464353b884bbf4d99b349288ae
+    m_Address: MissileLaunch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b792a742cedbe94f850749acbe1137a
+    m_Address: Explosion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d10077f7c71725848a444c8aa95a81c3
+    m_Address: BlueEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5163c282db079bb4397059fff42de5ff
+    m_Address: GreenEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af49f931bb8a53f4fb5835dbf4abced5
+    m_Address: RedEnemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 69934c04f7a289f49ade39bd5db69573, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f2b6fa78fd829e8468d521233e7f58e6, type: 2}
+    - {fileID: 11400000, guid: 49bce809b03adb24582dded7a3d26873, type: 2}

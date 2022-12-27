@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8657349439370193346
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8657349439370193349}
+  - component: {fileID: 8657349439370193350}
+  - component: {fileID: 8657349439370193351}
+  - component: {fileID: 8657349439370193348}
+  m_Layer: 0
+  m_Name: UIHandlersContainer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8657349439370193349
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8657349439370193346}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8657349439370193350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8657349439370193346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6725b7d2dde168f41b2cc171b572505e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerScript: {fileID: 0}
+  isPlayerInvulvenrable: 0
+  hasUnlimitedBullets: 0
+  addGoldInput: {fileID: 0}
+  generalNotifInput: {fileID: 0}
+  generalFireTimeInput: {fileID: 0}
+  socialNotifInput: {fileID: 0}
+  socialFireTimeInput: {fileID: 0}
+  createGroupButton: {fileID: 0}
+  createPlayerButton: {fileID: 0}
+  nameInput: {fileID: 0}
+  scoreInput: {fileID: 0}
+  getScoresButton: {fileID: 0}
+  resetScoresButton: {fileID: 0}
+  secretInput: {fileID: 0}
+--- !u!114 &8657349439370193351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8657349439370193346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cee6417db39b7847b65139902d636e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outputDisplayContainer: {fileID: 0}
+  currentLeaderboardIndex: -1
+  textDisplayMenu: {fileID: 0}
+  textDisplay: {fileID: 0}
+  leaderboardsDisplayMenu: {fileID: 0}
+  leaderboardsPlayerCopy: {fileID: 6561130443108046122, guid: 415d2d40bb264474e8224baec6b89c3a, type: 3}
+  leaderboardsPlayerParent: {fileID: 0}
+  leaderboardPlayersList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &8657349439370193348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8657349439370193346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 659d63cc89ce5114394e9788aa941e1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadingScreen: {fileID: 0}
+  loadingScreenSlider: {fileID: 0}
